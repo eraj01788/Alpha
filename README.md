@@ -1,2 +1,2 @@
-# Alpha
-Scripts example for fly spaceship
+# Team Alpha
+
